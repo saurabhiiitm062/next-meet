@@ -2,14 +2,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/shikhar13012001/hackathon">
-    <img src="https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/standard%20(2).gif" alt="Logo" >
-  </a>
-
-  <h3 align="center"></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -90,7 +82,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/shikhar13012001/hackathon.git
+    git clone https://github.com/saurabhiiitm062/next-meet.git
     ```
 2. Install NPM packages
     ```sh
