@@ -145,7 +145,7 @@ To get a local copy up and running follow these simple steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the [open issues](https://github.com/shikhar13012001/hackathon/issues) for a full list of proposed features (and known issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,15 +156,6 @@ See the [open issues](https://github.com/shikhar13012001/hackathon/issues) for a
 
 <!-- CONTACT -->
 
-## Contact
-
-Project Link: [https://github.com/shikhar13012001/hackathon](https://github.com/shikhar13012001/hackathon)
-
-contributors :<br>
-Ayush Russiya<br>
-Shikhar Gupta<br>
-Suyash Vikram Singh<br>
-Sanket Diwate<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,6 +229,3 @@ Sanket Diwate<br>
 [tailwind-css]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-css-url]: https://tailwindcss.com/
 
-
-## Reference 
-https://www.youtube.com/watch?v=JhyY8LdAQHU&list=PLK0STOMCFms4nXm1bRUdjhPg0coxI2U6h&index=4
