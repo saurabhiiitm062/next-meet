@@ -39,8 +39,6 @@
 
 ## About The Project
 
-[scs](https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/Screenshot%20(274).png)
-
 <!-- right here description-->
 
 This project is build with WEBRTC , simple-peer library and socket.io , using node js as backend and reactjs as frontend library , for styling MUI and Tailwindcss is used.
@@ -117,12 +115,11 @@ To get a local copy up and running follow these simple steps.
     ```sh
     git checkout backend
     ```
-    
 6. install NPM packages
+
     ```sh
     npm install
     ```
-
 
 7. start the server
     ```sh
@@ -131,37 +128,26 @@ To get a local copy up and running follow these simple steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-##  ScreenShots 
-![Screenshot1](https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/Screenshot%20(274).png)
-![Screenshot1](https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/Screenshot%20(275).png)
-![Screenshot1](https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/Screenshot%20(276).png)
-![Screenshot1](https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/screenshot.jpeg)
-![Screenshot1](https://raw.githubusercontent.com/shikhar13012001/hackathon/main/public/assets/Screenshot%20(278).png)
-
 ## Usage
 
 <!-- add screen shots -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
+
 -   [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -214,18 +200,18 @@ To get a local copy up and running follow these simple steps.
 [mongo-url]: https://www.mongodb.com/
 [redux]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [redux-url]: https://redux-toolkit.js.org/
+
 <!-- webrtc simplepeer firebase urls -->
+
 [webrtc]: https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white
 [webrtc-url]: https://webrtc.org/
 [simple-peer]: https://img.shields.io/badge/SimplePeer-333333?style=for-the-badge&logo=SimplePeer&logoColor=white
-[simple-peer-url]:https://www.npmjs.com/package/simple-peer
+[simple-peer-url]: https://www.npmjs.com/package/simple-peer
 [firebase]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 [firebase-url]: https://firebase.google.com/
-
 [socket.io]: https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white
 [socket-url]: https://socket.io/
 [material-ui]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
 [material-ui-url]: https://material-ui.com/
 [tailwind-css]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-css-url]: https://tailwindcss.com/
-
